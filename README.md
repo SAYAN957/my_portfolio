@@ -3,7 +3,7 @@
 This is my personal **portfolio website** showcasing my skills, projects, education, and contact details.  
 Built using **HTML, CSS, and JavaScript**, the portfolio is fully responsive and highlights my **full-stack development skills** and projects.  
 
-##Live : https://sayan957.github.io/my_portfolio/
+Live : https://sayan957.github.io/my_portfolio/
 
 ---
 
